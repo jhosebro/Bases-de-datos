@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T13:49:49.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="qD0vNM0IqCcO0lk-81Lo" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T14:28:12.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="zzg5OBfbIFUWlVHqbEvj" version="20.3.0" type="github">
   <diagram id="Nnygqn_o_6y3nwpVafua" name="Página-1">
     <mxGraphModel dx="1422" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,10 +23,10 @@
           <mxGeometry x="110" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GWdkKSLtYWiq7Nx3gvOZ-2" value="Placa" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="20" y="140" width="70" height="50" as="geometry" />
+          <mxGeometry x="10" y="160" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GWdkKSLtYWiq7Nx3gvOZ-3" value="Modelo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="220" width="70" height="50" as="geometry" />
+          <mxGeometry x="70" y="230" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GWdkKSLtYWiq7Nx3gvOZ-4" value="Color" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="180" width="70" height="50" as="geometry" />
@@ -59,19 +59,19 @@
           <mxGeometry x="540" y="85" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GWdkKSLtYWiq7Nx3gvOZ-12" value="DNI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="180" width="70" height="50" as="geometry" />
+          <mxGeometry x="430" y="190" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GWdkKSLtYWiq7Nx3gvOZ-13" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="200" width="70" height="50" as="geometry" />
+          <mxGeometry x="510" y="210" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GWdkKSLtYWiq7Nx3gvOZ-14" value="Direccion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="180" width="70" height="50" as="geometry" />
+          <mxGeometry x="710" y="190" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GWdkKSLtYWiq7Nx3gvOZ-15" value="Ciudad" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="90" width="70" height="50" as="geometry" />
+          <mxGeometry x="710" y="90" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GWdkKSLtYWiq7Nx3gvOZ-16" value="Telefono" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="210" width="70" height="50" as="geometry" />
+          <mxGeometry x="630" y="210" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GWdkKSLtYWiq7Nx3gvOZ-17" value="Codigo" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="560" y="10" width="70" height="50" as="geometry" />
