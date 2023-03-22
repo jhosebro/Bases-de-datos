@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T01:33:30.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="EdkjE8VtCvYPuSGtxBFF" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T01:33:46.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="5Rt6KrrHScyjnUXPcPzT" version="21.0.10" type="github">
   <diagram name="Página-1" id="5ZlOpd-dRQiO-d2WnFOe">
     <mxGraphModel dx="1415" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,10 +83,10 @@
           <mxGeometry x="644" y="570" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LNOtH3XejJUelRxE3LDF-71" value="Cantidad_Inv" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="634" y="620" width="86" height="40" as="geometry" />
+          <mxGeometry x="644" y="630" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LNOtH3XejJUelRxE3LDF-72" value="Precio" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="604" y="660" width="60" height="40" as="geometry" />
+          <mxGeometry x="564" y="640" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LNOtH3XejJUelRxE3LDF-73" value="Fecha vencimiento" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="534" y="400" width="80" height="40" as="geometry" />
