@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T00:52:07.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="L8EorgZgLjRRv5wAa51_" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T00:52:57.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="1oo7pCVL7YmKtGzQYOIX" version="21.0.10" type="github">
   <diagram name="Página-1" id="5ZlOpd-dRQiO-d2WnFOe">
     <mxGraphModel dx="1415" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="LNOtH3XejJUelRxE3LDF-50" value="Fecha de nacimiento" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="220" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOtH3XejJUelRxE3LDF-51" value="Genero" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
