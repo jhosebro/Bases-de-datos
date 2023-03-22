@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T02:18:24.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="uwQhlden_x-hbQpx_Phn" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T02:22:35.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="rSasF5ovZ-vRvhFEmFyL" version="21.0.10" type="github">
   <diagram name="Página-1" id="5ZlOpd-dRQiO-d2WnFOe">
     <mxGraphModel dx="1415" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -428,7 +428,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LNOtH3XejJUelRxE3LDF-140" value="Tiene" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="LNOtH3XejJUelRxE3LDF-140" value="Utiliza" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="750" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
