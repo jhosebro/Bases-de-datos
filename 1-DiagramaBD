@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T00:52:57.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="1oo7pCVL7YmKtGzQYOIX" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T00:54:19.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="ic7ptoj9iGVPfidjHgUC" version="21.0.10" type="github">
   <diagram name="Página-1" id="5ZlOpd-dRQiO-d2WnFOe">
     <mxGraphModel dx="1415" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,31 +8,34 @@
           <mxGeometry x="170" y="220" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LNOtH3XejJUelRxE3LDF-43" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="100" y="270" width="60" height="40" as="geometry" />
+          <mxGeometry x="90" y="290" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LNOtH3XejJUelRxE3LDF-44" value="Compra" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="540" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LNOtH3XejJUelRxE3LDF-45" value="Apellido" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="170" y="280" width="60" height="40" as="geometry" />
+          <mxGeometry x="170" y="300" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LNOtH3XejJUelRxE3LDF-46" value="ID" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="240" y="280" width="40" height="40" as="geometry" />
+          <mxGeometry x="240" y="300" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LNOtH3XejJUelRxE3LDF-47" value="Telefono" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="290" y="250" width="60" height="40" as="geometry" />
+          <mxGeometry x="300" y="220" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LNOtH3XejJUelRxE3LDF-48" value="Correo" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="90" y="210" width="60" height="40" as="geometry" />
+          <mxGeometry x="80" y="230" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LNOtH3XejJUelRxE3LDF-49" value="Edad" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="290" y="200" width="60" height="40" as="geometry" />
+          <mxGeometry x="280" y="170" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LNOtH3XejJUelRxE3LDF-50" value="Fecha de nacimiento" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="220" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="170" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LNOtH3XejJUelRxE3LDF-51" value="Genero" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="140" y="160" width="50" height="40" as="geometry" />
+          <mxGeometry x="100" y="170" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOtH3XejJUelRxE3LDF-52" value="T_Id" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="290" y="270" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
