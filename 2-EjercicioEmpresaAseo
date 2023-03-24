@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T00:25:16.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="aBLE9ilmrZVCq2FaS2Sy" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T00:29:35.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="P6xFawGXnd_1PjciAfk5" version="21.1.0" type="github">
   <diagram name="Página-1" id="DgC2D269yNsjj9jgRFge">
     <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="C8GBMowQX0iEWz1lhJip-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="1160" height="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="C8GBMowQX0iEWz1lhJip-15" value="Sistema de informacion para empresa de elementos de aseo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="50" width="205" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
