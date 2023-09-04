@@ -1,11 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T22:16:06.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="c8vsweY2Yc156Z3cHQHB" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T22:18:23.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="qqzw_14QWNg76gQBjgUL" version="21.7.2" type="github">
   <diagram name="Página-1" id="HI1I8D31MHRvUqRoD5CX">
     <mxGraphModel dx="982" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5ykwkt1n1GEtBhAtZkCk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ykwkt1n1GEtBhAtZkCk-1" target="5ykwkt1n1GEtBhAtZkCk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ykwkt1n1GEtBhAtZkCk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ykwkt1n1GEtBhAtZkCk-1" target="5ykwkt1n1GEtBhAtZkCk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ykwkt1n1GEtBhAtZkCk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ykwkt1n1GEtBhAtZkCk-1" target="5ykwkt1n1GEtBhAtZkCk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ykwkt1n1GEtBhAtZkCk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ykwkt1n1GEtBhAtZkCk-1" target="5ykwkt1n1GEtBhAtZkCk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5ykwkt1n1GEtBhAtZkCk-1" value="Cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="60" width="60" height="20" as="geometry" />
+          <mxGeometry x="110" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5ykwkt1n1GEtBhAtZkCk-2" value="Cod_cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ykwkt1n1GEtBhAtZkCk-4" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="115" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5ykwkt1n1GEtBhAtZkCk-6" value="Telefono" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5ykwkt1n1GEtBhAtZkCk-7" value="DNI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="90" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
