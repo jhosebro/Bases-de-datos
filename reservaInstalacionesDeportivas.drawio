@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T19:13:42.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="KZsE2BcxzInweeP7PsXi" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T19:16:31.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="pjrAdMK9btckOquzNzaX" version="21.7.2" type="github">
   <diagram name="Página-1" id="hyoygEu00sJUBRQJcLb9">
     <mxGraphModel dx="982" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,16 @@
         </mxCell>
         <mxCell id="QoFn2yfLO23CZvwwbxpm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QoFn2yfLO23CZvwwbxpm-1" target="QoFn2yfLO23CZvwwbxpm-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QoFn2yfLO23CZvwwbxpm-26" value="(1,M)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QoFn2yfLO23CZvwwbxpm-24">
+          <mxGeometry x="0.6726" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoFn2yfLO23CZvwwbxpm-27" value="(1,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QoFn2yfLO23CZvwwbxpm-24">
+          <mxGeometry x="-0.8437" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QoFn2yfLO23CZvwwbxpm-1" value="Instalacion Deportiva" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="90" width="120" height="60" as="geometry" />
