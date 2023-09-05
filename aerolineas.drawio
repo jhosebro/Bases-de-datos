@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T23:57:44.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="iyLuNtW0IdunQ7QAyIGc" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T23:59:56.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="GzZ2fChgq67mfXm1kK65" version="21.7.2" type="github">
   <diagram name="Página-1" id="UUR40JyIWrCSjtDDrcDr">
     <mxGraphModel dx="1379" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="200" y="90" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4Mqh_UqCW2FSAEqXyaWD-6" value="Parada_tecnica" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="230" width="110" height="30" as="geometry" />
+          <mxGeometry x="75" y="280" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Mqh_UqCW2FSAEqXyaWD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Mqh_UqCW2FSAEqXyaWD-8" target="4Mqh_UqCW2FSAEqXyaWD-9">
           <mxGeometry relative="1" as="geometry" />
@@ -48,6 +48,33 @@
         </mxCell>
         <mxCell id="4Mqh_UqCW2FSAEqXyaWD-11" value="Categoria" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="90" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mqh_UqCW2FSAEqXyaWD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Mqh_UqCW2FSAEqXyaWD-19" target="4Mqh_UqCW2FSAEqXyaWD-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mqh_UqCW2FSAEqXyaWD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Mqh_UqCW2FSAEqXyaWD-19" target="4Mqh_UqCW2FSAEqXyaWD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mqh_UqCW2FSAEqXyaWD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Mqh_UqCW2FSAEqXyaWD-19" target="4Mqh_UqCW2FSAEqXyaWD-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mqh_UqCW2FSAEqXyaWD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Mqh_UqCW2FSAEqXyaWD-19" target="4Mqh_UqCW2FSAEqXyaWD-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mqh_UqCW2FSAEqXyaWD-19" value="Avion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="270" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mqh_UqCW2FSAEqXyaWD-20" value="&lt;b&gt;N_matricula&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="460" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mqh_UqCW2FSAEqXyaWD-21" value="capacidad" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mqh_UqCW2FSAEqXyaWD-22" value="fabricante" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mqh_UqCW2FSAEqXyaWD-23" value="modelo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="310" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
