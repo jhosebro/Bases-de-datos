@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T22:42:17.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="YAffhXK_AeafOPp038NN" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T23:28:12.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="JAYF_w7CQJSOyzmkLImM" version="21.7.2" type="github">
   <diagram name="Página-1" id="HI1I8D31MHRvUqRoD5CX">
-    <mxGraphModel dx="982" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="951" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
         <mxCell id="5ykwkt1n1GEtBhAtZkCk-6" value="Telefono" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="120" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5ykwkt1n1GEtBhAtZkCk-7" value="DNI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5ykwkt1n1GEtBhAtZkCk-7" value="DNI" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="220" y="90" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5ykwkt1n1GEtBhAtZkCk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ykwkt1n1GEtBhAtZkCk-14" target="5ykwkt1n1GEtBhAtZkCk-15">
@@ -81,7 +81,7 @@
         <mxCell id="5ykwkt1n1GEtBhAtZkCk-14" value="Local" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="60" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5ykwkt1n1GEtBhAtZkCk-15" value="Cod_local" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5ykwkt1n1GEtBhAtZkCk-15" value="Cod_local" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="430" y="110" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5ykwkt1n1GEtBhAtZkCk-16" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -124,7 +124,7 @@
         <mxCell id="5ykwkt1n1GEtBhAtZkCk-25" value="Espectaculo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="290" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5ykwkt1n1GEtBhAtZkCk-26" value="Cod_espectaculo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5ykwkt1n1GEtBhAtZkCk-26" value="Cod_espectaculo" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="20" y="320" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5ykwkt1n1GEtBhAtZkCk-27" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -204,7 +204,7 @@
         <mxCell id="5ykwkt1n1GEtBhAtZkCk-77" value="fecha" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="686.5" y="520" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5ykwkt1n1GEtBhAtZkCk-81" value="Cod_compra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5ykwkt1n1GEtBhAtZkCk-81" value="Cod_compra" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="310" y="500" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5ykwkt1n1GEtBhAtZkCk-84" value="Hace" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
