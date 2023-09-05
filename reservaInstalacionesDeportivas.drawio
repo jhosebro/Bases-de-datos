@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T23:30:13.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="j6lKKobemJEa3E6O8vOp" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T23:35:32.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="g8ztkqURFRBQVdxNq6RD" version="21.7.2" type="github">
   <diagram name="Página-1" id="hyoygEu00sJUBRQJcLb9">
     <mxGraphModel dx="1379" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -271,7 +271,7 @@
         <mxCell id="QoFn2yfLO23CZvwwbxpm-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QoFn2yfLO23CZvwwbxpm-74" target="QoFn2yfLO23CZvwwbxpm-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QoFn2yfLO23CZvwwbxpm-74" value="Puede&lt;br&gt;tener" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QoFn2yfLO23CZvwwbxpm-74" value="Tiene" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="118" y="520" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QoFn2yfLO23CZvwwbxpm-77" value="Hace" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
