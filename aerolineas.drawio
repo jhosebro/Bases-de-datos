@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T00:14:33.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="WY_z2q-kKXwFEGIQo6Y0" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T00:15:27.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="YGWTjBoGZDjMRuUhExwe" version="21.7.2" type="github">
   <diagram name="Página-1" id="UUR40JyIWrCSjtDDrcDr">
     <mxGraphModel dx="1379" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -213,22 +213,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4Mqh_UqCW2FSAEqXyaWD-68" value="Pasajero" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="840" width="65" height="30" as="geometry" />
+          <mxGeometry x="355" y="820" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Mqh_UqCW2FSAEqXyaWD-70" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="15" y="890" width="65" height="30" as="geometry" />
+          <mxGeometry x="270" y="870" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Mqh_UqCW2FSAEqXyaWD-71" value="Tipo_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="42.5" y="930" width="65" height="30" as="geometry" />
+          <mxGeometry x="297.5" y="910" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Mqh_UqCW2FSAEqXyaWD-72" value="&lt;b&gt;N_id&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="107.5" y="960" width="50" height="30" as="geometry" />
+          <mxGeometry x="362.5" y="940" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Mqh_UqCW2FSAEqXyaWD-74" value="F_nacimiento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="177" y="920" width="90" height="30" as="geometry" />
+          <mxGeometry x="432" y="900" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Mqh_UqCW2FSAEqXyaWD-75" value="Sexo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="209.5" y="880" width="40" height="30" as="geometry" />
+          <mxGeometry x="464.5" y="860" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
