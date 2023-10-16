@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T07:11:43.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="gnTWmxVuNQBwOcBOwlBp" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T07:27:54.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="T4BjFl26DqPDcG6dv4ck" version="22.0.4" type="github">
   <diagram name="Página-1" id="23fT58cwcSyIGu0zpsJl">
     <mxGraphModel dx="677" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -589,7 +589,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fKOl1zFIxUK1DhLsgoF2-250" value="Tiene" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fKOl1zFIxUK1DhLsgoF2-250" value="Esta" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="460" width="59.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fKOl1zFIxUK1DhLsgoF2-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fKOl1zFIxUK1DhLsgoF2-256" target="fKOl1zFIxUK1DhLsgoF2-145">
