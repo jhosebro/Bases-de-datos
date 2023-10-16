@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T06:52:53.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="pK7xF7pBumbvSjnwex3v" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T06:53:20.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="3yABBYgyMy7n68NlJFNA" version="22.0.4" type="github">
   <diagram name="Página-1" id="23fT58cwcSyIGu0zpsJl">
     <mxGraphModel dx="918" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -545,7 +545,7 @@
         <mxCell id="fKOl1zFIxUK1DhLsgoF2-213" value="Provee" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="384" y="380" width="59" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fKOl1zFIxUK1DhLsgoF2-218" value="Esta" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fKOl1zFIxUK1DhLsgoF2-218" value="Registra" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="670" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fKOl1zFIxUK1DhLsgoF2-224" value="Hace" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
