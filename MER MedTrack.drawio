@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T05:57:02.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="VNhO4te96yTEWRb2v5yT" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T05:58:29.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="2TlssbA-aQFfR4zzRr8X" version="22.0.4" type="github">
   <diagram name="Página-1" id="h4PZha3X-RpyvGVEUxOa">
     <mxGraphModel dx="918" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,6 +61,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="uRMWF5CsC-wMtR1UuRz3-33" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="uRMWF5CsC-wMtR1UuRz3-1" target="uRMWF5CsC-wMtR1UuRz3-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="175" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uRMWF5CsC-wMtR1UuRz3-34" value="d" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="uRMWF5CsC-wMtR1UuRz3-33">
+          <mxGeometry x="-0.0369" y="4" relative="1" as="geometry">
+            <mxPoint x="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uRMWF5CsC-wMtR1UuRz3-1" value="Usuario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="70" width="70" height="30" as="geometry" />
         </mxCell>
@@ -100,8 +112,14 @@
         <mxCell id="uRMWF5CsC-wMtR1UuRz3-29" value="Apellido" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="490" y="170" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uRMWF5CsC-wMtR1UuRz3-35" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="uRMWF5CsC-wMtR1UuRz3-31" target="uRMWF5CsC-wMtR1UuRz3-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uRMWF5CsC-wMtR1UuRz3-31" value="Paciente" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="50" y="270" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uRMWF5CsC-wMtR1UuRz3-32" value="EPS" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="65" y="300" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
