@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T06:46:44.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="YWnhp67isPO6N0aXVbmg" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T06:48:24.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="ZQF_7I0i4nehL-f-k57y" version="22.0.4" type="github">
   <diagram name="Página-1" id="h4PZha3X-RpyvGVEUxOa">
     <mxGraphModel dx="918" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,6 +146,19 @@
         </mxCell>
         <mxCell id="uRMWF5CsC-wMtR1UuRz3-35" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="uRMWF5CsC-wMtR1UuRz3-31" target="uRMWF5CsC-wMtR1UuRz3-32">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRMWF5CsC-wMtR1UuRz3-118" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="uRMWF5CsC-wMtR1UuRz3-31" target="uRMWF5CsC-wMtR1UuRz3-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="280" />
+              <mxPoint x="20" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uRMWF5CsC-wMtR1UuRz3-119" value="(1,M)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="uRMWF5CsC-wMtR1UuRz3-118">
+          <mxGeometry x="0.2217" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uRMWF5CsC-wMtR1UuRz3-31" value="Paciente" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="50" y="270" width="70" height="20" as="geometry" />
@@ -392,7 +405,11 @@
           <mxGeometry x="340" y="370" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uRMWF5CsC-wMtR1UuRz3-112" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="uRMWF5CsC-wMtR1UuRz3-110" target="uRMWF5CsC-wMtR1UuRz3-70">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="109" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="uRMWF5CsC-wMtR1UuRz3-116" value="(1,M)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="uRMWF5CsC-wMtR1UuRz3-112">
           <mxGeometry x="0.7616" y="2" relative="1" as="geometry">
@@ -400,7 +417,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uRMWF5CsC-wMtR1UuRz3-110" value="Crea" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="235" y="370" width="50" height="40" as="geometry" />
+          <mxGeometry x="235.01" y="380" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uRMWF5CsC-wMtR1UuRz3-120" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="uRMWF5CsC-wMtR1UuRz3-117" target="uRMWF5CsC-wMtR1UuRz3-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRMWF5CsC-wMtR1UuRz3-121" value="(1,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="uRMWF5CsC-wMtR1UuRz3-120">
+          <mxGeometry x="-0.7247" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uRMWF5CsC-wMtR1UuRz3-117" value="Tiene" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
